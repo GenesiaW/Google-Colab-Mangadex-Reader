@@ -6,3 +6,4 @@ A MangaDex reader that utilizes the v5 API. A simple project written for fun.
 1. Search Function
 2. Chapter Selection
 3. Reader with List and Page View
+4. Download
